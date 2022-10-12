@@ -1,5 +1,8 @@
 # Description
 
+
+*italicized text*
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
