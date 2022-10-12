@@ -1,6 +1,9 @@
 # Description
 
-## Small heading
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 ### This project is created for the benefit of C# students in NEst digital. 
 This projects sole purpose is to teach them about git and github
